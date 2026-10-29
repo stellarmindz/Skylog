@@ -1,0 +1,2 @@
+session_id,timestamp_iso,target_name,catalog_id,constellation,target_type,azimuth_deg,altitude_deg,ra_j2000,dec_j2000,eyepiece_mm,barlow_used,calculated_magnification,seeing_scale_1_to_5,transparency_scale_1_to_5,photo_taken,camera_iso,exposure_sec,notes
+20261028-01,2026-10-28T20:30:00-07:00,Saturn,PLANET-SATURN,Pisces,Planet,165.2,42.1,23h 15m 12s,"-07° 12' 00""",10,No,40x,3,4,Yes,100,1/60,Clear separation of rings from planetary disk; Titan visible west.
