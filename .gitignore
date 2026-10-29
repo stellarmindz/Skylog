@@ -1,0 +1,15 @@
+# Environments & Bytecode
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# System artifacts
+.DS_Store
+Thumbs.db
+
+# Dynamic data logs & renders (keep template/sample only)
+data/*.csv
+!data/astronomy_sky_log_template.csv
+output/*.png
+!output/sample_sky_map.png
